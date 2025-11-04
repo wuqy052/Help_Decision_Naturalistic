@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="249.515pt" height="243.676875pt" viewBox="0 0 249.515 243.676875" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-10-30T04:08:21.764982</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 243.676875 
+L 249.515 243.676875 
+L 249.515 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.015 201.24 
+L 242.315 201.24 
+L 242.315 7.2 
+L 47.015 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m50db9bce5c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m50db9bce5c" x="85.984723" y="201.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- −2 -->
+      <g transform="translate(80.283941 215.486875) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-2212" d="M 3425 2356 
+L 3425 1900 
+L 316 1900 
+L 316 2356 
+L 3425 2356 
+z
+" transform="scale(0.015625)"/>
+        <path id="Arimo-Regular-32" d="M 3238 478 
+L 3238 0 
+L 322 0 
+L 322 397 
+Q 481 763 707 1044 
+Q 934 1325 1190 1550 
+Q 1447 1775 1697 1969 
+Q 1822 2066 1933 2162 
+Q 2044 2259 2144 2356 
+Q 2344 2550 2467 2762 
+Q 2591 2975 2591 3244 
+Q 2591 3606 2378 3806 
+Q 2166 4006 1788 4006 
+Q 1428 4006 1195 3811 
+Q 963 3616 922 3263 
+L 347 3316 
+Q 409 3844 795 4156 
+Q 1181 4469 1788 4469 
+Q 2453 4469 2811 4155 
+Q 3169 3841 3169 3263 
+Q 3169 3006 3051 2753 
+Q 2934 2500 2703 2247 
+Q 2588 2122 2366 1925 
+Q 2144 1728 1819 1463 
+Q 1459 1169 1246 933 
+Q 1034 697 941 478 
+L 3238 478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-2212"/>
+       <use xlink:href="#Arimo-Regular-32" transform="translate(58.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m50db9bce5c" x="146.169622" y="201.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 0 -->
+      <g transform="translate(143.389154 215.486875) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-30" d="M 3309 2203 
+Q 3309 1100 2920 518 
+Q 2531 -63 1772 -63 
+Q 1013 -63 631 515 
+Q 250 1094 250 2203 
+Q 250 3338 620 3903 
+Q 991 4469 1791 4469 
+Q 2569 4469 2939 3897 
+Q 3309 3325 3309 2203 
+z
+M 2738 2203 
+Q 2738 2841 2642 3239 
+Q 2547 3638 2337 3825 
+Q 2128 4013 1791 4013 
+Q 1447 4013 1231 3828 
+Q 1016 3644 917 3245 
+Q 819 2847 819 2203 
+Q 819 1578 920 1178 
+Q 1022 778 1234 587 
+Q 1447 397 1778 397 
+Q 2275 397 2506 840 
+Q 2738 1284 2738 2203 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m50db9bce5c" x="206.354522" y="201.24" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 2 -->
+      <g transform="translate(203.574054 215.486875) scale(0.1 -0.1)">
+       <use xlink:href="#Arimo-Regular-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_4">
+     <!-- Subjective Value (V) -->
+     <g transform="translate(72.1875 233.156875) scale(0.16 -0.16)">
+      <defs>
+       <path id="Arimo-Regular-53" d="M 3975 1216 
+Q 3975 606 3498 271 
+Q 3022 -63 2156 -63 
+Q 547 -63 291 1056 
+L 869 1172 
+Q 969 775 1294 589 
+Q 1619 403 2178 403 
+Q 2756 403 3070 601 
+Q 3384 800 3384 1184 
+Q 3384 1400 3286 1534 
+Q 3188 1669 3009 1756 
+Q 2831 1844 2584 1903 
+Q 2338 1963 2038 2031 
+Q 1691 2109 1458 2184 
+Q 1225 2259 1075 2342 
+Q 925 2425 819 2519 
+Q 663 2663 580 2853 
+Q 497 3044 497 3291 
+Q 497 3856 930 4162 
+Q 1363 4469 2169 4469 
+Q 2919 4469 3316 4239 
+Q 3713 4009 3872 3456 
+L 3284 3353 
+Q 3188 3703 2916 3861 
+Q 2644 4019 2163 4019 
+Q 1634 4019 1356 3844 
+Q 1078 3669 1078 3322 
+Q 1078 3119 1186 2986 
+Q 1294 2853 1497 2763 
+Q 1688 2672 2306 2534 
+Q 2559 2475 2806 2411 
+Q 3053 2347 3272 2250 
+Q 3400 2197 3517 2120 
+Q 3634 2044 3722 1944 
+Q 3841 1813 3908 1634 
+Q 3975 1456 3975 1216 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-75" d="M 2569 578 
+Q 2375 228 2120 82 
+Q 1866 -63 1488 -63 
+Q 931 -63 673 214 
+Q 416 491 416 1128 
+L 416 3381 
+L 981 3381 
+L 981 1238 
+Q 981 731 1139 551 
+Q 1297 372 1678 372 
+Q 2084 372 2318 650 
+Q 2553 928 2553 1422 
+L 2553 3381 
+L 3116 3381 
+L 3116 722 
+Q 3116 428 3120 247 
+Q 3125 66 3134 0 
+L 2603 0 
+Q 2600 16 2592 147 
+Q 2584 278 2578 578 
+L 2569 578 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-62" d="M 3291 1706 
+Q 3291 822 2980 379 
+Q 2669 -63 2047 -63 
+Q 1663 -63 1408 76 
+Q 1153 216 994 525 
+L 988 525 
+Q 988 463 981 344 
+Q 975 225 969 123 
+Q 963 22 956 0 
+L 413 0 
+Q 422 84 426 257 
+Q 431 431 431 697 
+L 431 4638 
+L 994 4638 
+L 994 3316 
+Q 994 3216 991 3095 
+Q 988 2975 981 2838 
+L 994 2838 
+Q 1150 3163 1408 3303 
+Q 1666 3444 2047 3444 
+Q 2688 3444 2989 3012 
+Q 3291 2581 3291 1706 
+z
+M 2700 1688 
+Q 2700 2397 2512 2703 
+Q 2325 3009 1903 3009 
+Q 1428 3009 1211 2684 
+Q 994 2359 994 1653 
+Q 994 988 1206 670 
+Q 1419 353 1897 353 
+Q 2322 353 2511 667 
+Q 2700 981 2700 1688 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-6a" d="M 991 4638 
+L 991 4100 
+L 428 4100 
+L 428 4638 
+L 991 4638 
+z
+M 241 -1328 
+Q -3 -1328 -156 -1300 
+L -156 -866 
+Q -106 -872 -59 -878 
+Q -13 -884 38 -884 
+Q 253 -884 340 -771 
+Q 428 -659 428 -334 
+L 428 3381 
+L 991 3381 
+L 991 -419 
+Q 991 -897 803 -1112 
+Q 616 -1328 241 -1328 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-65" d="M 863 1572 
+Q 863 991 1103 675 
+Q 1344 359 1806 359 
+Q 2172 359 2392 506 
+Q 2613 653 2691 878 
+L 3184 738 
+Q 2881 -63 1806 -63 
+Q 1056 -63 664 384 
+Q 272 831 272 1713 
+Q 272 2550 664 2997 
+Q 1056 3444 1784 3444 
+Q 2531 3444 2903 2994 
+Q 3275 2544 3275 1647 
+L 3275 1572 
+L 863 1572 
+z
+M 2694 2003 
+Q 2647 2538 2422 2783 
+Q 2197 3028 1775 3028 
+Q 1366 3028 1127 2754 
+Q 888 2481 869 2003 
+L 2694 2003 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-63" d="M 1728 -63 
+Q 1019 -63 645 385 
+Q 272 834 272 1694 
+Q 272 2547 647 2995 
+Q 1022 3444 1722 3444 
+Q 2241 3444 2583 3175 
+Q 2925 2906 3013 2434 
+L 2434 2391 
+Q 2391 2672 2212 2837 
+Q 2034 3003 1706 3003 
+Q 1259 3003 1059 2706 
+Q 859 2409 859 1706 
+Q 859 1031 1071 706 
+Q 1284 381 1713 381 
+Q 2013 381 2214 543 
+Q 2416 706 2463 1044 
+L 3031 1006 
+Q 2988 681 2814 440 
+Q 2641 200 2364 68 
+Q 2088 -63 1728 -63 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-74" d="M 1731 25 
+Q 1456 -50 1163 -50 
+Q 825 -50 656 142 
+Q 488 334 488 716 
+L 488 2972 
+L 97 2972 
+L 97 3381 
+L 509 3381 
+L 675 4138 
+L 1050 4138 
+L 1050 3381 
+L 1675 3381 
+L 1675 2972 
+L 1050 2972 
+L 1050 838 
+Q 1050 594 1129 495 
+Q 1209 397 1406 397 
+Q 1513 397 1731 441 
+L 1731 25 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-69" d="M 991 4638 
+L 991 4100 
+L 428 4100 
+L 428 4638 
+L 991 4638 
+z
+M 991 3381 
+L 991 0 
+L 428 0 
+L 428 3381 
+L 991 3381 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-76" d="M 3178 3381 
+L 1916 0 
+L 1250 0 
+L 22 3381 
+L 622 3381 
+L 1366 1181 
+Q 1388 1119 1441 933 
+Q 1494 747 1581 441 
+Q 1622 563 1661 695 
+Q 1700 828 1739 953 
+Q 1778 1078 1813 1175 
+L 2581 3381 
+L 3178 3381 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-20" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-56" d="M 4241 4403 
+L 2444 0 
+L 1825 0 
+L 28 4403 
+L 656 4403 
+L 1875 1303 
+Q 1950 1113 2011 916 
+Q 2072 719 2138 525 
+Q 2200 719 2269 931 
+Q 2338 1144 2400 1303 
+L 3613 4403 
+L 4241 4403 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-61" d="M 1294 -63 
+Q 784 -63 528 206 
+Q 272 475 272 944 
+Q 272 1469 617 1750 
+Q 963 2031 1731 2050 
+L 2491 2063 
+L 2491 2247 
+Q 2491 2659 2316 2837 
+Q 2141 3016 1766 3016 
+Q 1388 3016 1216 2887 
+Q 1044 2759 1009 2478 
+L 422 2531 
+Q 566 3444 1778 3444 
+Q 2416 3444 2737 3151 
+Q 3059 2859 3059 2306 
+L 3059 850 
+Q 3059 600 3125 473 
+Q 3191 347 3375 347 
+Q 3463 347 3559 369 
+L 3559 19 
+Q 3453 -6 3343 -18 
+Q 3234 -31 3125 -31 
+Q 2813 -31 2670 133 
+Q 2528 297 2509 647 
+L 2491 647 
+Q 2275 259 1989 98 
+Q 1703 -63 1294 -63 
+z
+M 2491 1669 
+L 1875 1656 
+Q 1481 1653 1275 1575 
+Q 1069 1500 959 1344 
+Q 850 1188 850 934 
+Q 850 659 998 509 
+Q 1147 359 1422 359 
+Q 1734 359 1972 500 
+Q 2213 641 2352 886 
+Q 2491 1131 2491 1391 
+L 2491 1669 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-6c" d="M 994 4638 
+L 994 0 
+L 431 0 
+L 431 4638 
+L 994 4638 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-28" d="M 1550 -1325 
+Q 1156 -900 900 -440 
+Q 644 19 520 536 
+Q 397 1053 397 1650 
+Q 397 2259 522 2778 
+Q 647 3297 903 3756 
+Q 1159 4216 1550 4638 
+L 2094 4638 
+Q 1509 3988 1236 3256 
+Q 963 2525 963 1656 
+Q 963 1081 1081 565 
+Q 1200 50 1450 -417 
+Q 1700 -884 2094 -1325 
+L 1550 -1325 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-29" d="M 38 -1325 
+Q 431 -888 681 -420 
+Q 931 47 1050 561 
+Q 1169 1075 1169 1656 
+Q 1169 2528 895 3256 
+Q 622 3984 38 4638 
+L 581 4638 
+Q 975 4213 1229 3753 
+Q 1484 3294 1609 2778 
+Q 1734 2263 1734 1663 
+Q 1734 1056 1609 536 
+Q 1484 16 1229 -442 
+Q 975 -900 581 -1325 
+L 38 -1325 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Arimo-Regular-53"/>
+      <use xlink:href="#Arimo-Regular-75" transform="translate(66.699219 0)"/>
+      <use xlink:href="#Arimo-Regular-62" transform="translate(122.314453 0)"/>
+      <use xlink:href="#Arimo-Regular-6a" transform="translate(177.929688 0)"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(200.146484 0)"/>
+      <use xlink:href="#Arimo-Regular-63" transform="translate(255.761719 0)"/>
+      <use xlink:href="#Arimo-Regular-74" transform="translate(305.761719 0)"/>
+      <use xlink:href="#Arimo-Regular-69" transform="translate(333.544922 0)"/>
+      <use xlink:href="#Arimo-Regular-76" transform="translate(355.761719 0)"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(405.761719 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(461.376953 0)"/>
+      <use xlink:href="#Arimo-Regular-56" transform="translate(489.160156 0)"/>
+      <use xlink:href="#Arimo-Regular-61" transform="translate(555.859375 0)"/>
+      <use xlink:href="#Arimo-Regular-6c" transform="translate(611.474609 0)"/>
+      <use xlink:href="#Arimo-Regular-75" transform="translate(633.691406 0)"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(689.306641 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(744.921875 0)"/>
+      <use xlink:href="#Arimo-Regular-28" transform="translate(772.705078 0)"/>
+      <use xlink:href="#Arimo-Regular-56" transform="translate(806.005859 0)"/>
+      <use xlink:href="#Arimo-Regular-29" transform="translate(872.705078 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="m7f22d55fdb" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="192.441773" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.0 -->
+      <g transform="translate(26.115 196.065211) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-2e" d="M 1194 684 
+L 1194 0 
+L 584 0 
+L 584 684 
+L 1194 684 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-30" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="157.151541" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0.2 -->
+      <g transform="translate(26.115 160.774978) scale(0.1 -0.1)">
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-32" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="121.861308" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 0.4 -->
+      <g transform="translate(26.115 125.484746) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-34" d="M 2753 997 
+L 2753 0 
+L 2222 0 
+L 2222 997 
+L 147 997 
+L 147 1434 
+L 2163 4403 
+L 2753 4403 
+L 2753 1441 
+L 3372 1441 
+L 3372 997 
+L 2753 997 
+z
+M 666 1441 
+L 2222 1441 
+L 2222 3197 
+Q 2222 3341 2223 3483 
+Q 2225 3625 2234 3769 
+Q 2163 3631 2109 3545 
+Q 2056 3459 2013 3397 
+L 666 1441 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-34" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="86.571076" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 0.6 -->
+      <g transform="translate(26.115 90.194513) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-36" d="M 3278 1441 
+Q 3278 744 2900 340 
+Q 2522 -63 1856 -63 
+Q 1113 -63 719 490 
+Q 325 1044 325 2100 
+Q 325 3244 734 3856 
+Q 1144 4469 1900 4469 
+Q 2400 4469 2714 4244 
+Q 3028 4019 3156 3572 
+L 2619 3475 
+Q 2456 4013 1894 4013 
+Q 1413 4013 1148 3564 
+Q 884 3116 884 2266 
+Q 1038 2550 1316 2698 
+Q 1594 2847 1953 2847 
+Q 2563 2847 2920 2465 
+Q 3278 2084 3278 1441 
+z
+M 2706 1416 
+Q 2706 1894 2472 2153 
+Q 2238 2413 1819 2413 
+Q 1425 2413 1183 2183 
+Q 941 1953 941 1550 
+Q 941 1213 1056 950 
+Q 1172 688 1373 539 
+Q 1575 391 1838 391 
+Q 2244 391 2475 664 
+Q 2706 938 2706 1416 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-36" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="51.280843" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 0.8 -->
+      <g transform="translate(26.115 54.904281) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-38" d="M 3281 1228 
+Q 3281 619 2893 278 
+Q 2506 -63 1781 -63 
+Q 1075 -63 676 271 
+Q 278 606 278 1222 
+Q 278 1653 525 1947 
+Q 772 2241 1156 2303 
+L 1156 2316 
+Q 797 2400 589 2681 
+Q 381 2963 381 3341 
+Q 381 3844 757 4156 
+Q 1134 4469 1769 4469 
+Q 2419 4469 2795 4162 
+Q 3172 3856 3172 3334 
+Q 3172 2956 2962 2675 
+Q 2753 2394 2391 2322 
+L 2391 2309 
+Q 2813 2241 3047 1952 
+Q 3281 1663 3281 1228 
+z
+M 2588 3303 
+Q 2588 4050 1769 4050 
+Q 956 4050 956 3303 
+Q 956 2925 1170 2726 
+Q 1384 2528 1775 2528 
+Q 2172 2528 2380 2711 
+Q 2588 2894 2588 3303 
+z
+M 2697 1281 
+Q 2697 1691 2453 1898 
+Q 2209 2106 1769 2106 
+Q 1341 2106 1100 1882 
+Q 859 1659 859 1269 
+Q 859 816 1092 587 
+Q 1325 359 1788 359 
+Q 2247 359 2472 579 
+Q 2697 800 2697 1281 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-38" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7f22d55fdb" x="47.015" y="15.990611" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 1.0 -->
+      <g transform="translate(26.115 19.614048) scale(0.1 -0.1)">
+       <defs>
+        <path id="Arimo-Regular-31" d="M 3247 478 
+L 3247 0 
+L 488 0 
+L 488 478 
+L 1609 478 
+L 1609 3866 
+L 616 3156 
+L 616 3688 
+L 1656 4403 
+L 2175 4403 
+L 2175 478 
+L 3247 478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-31"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-30" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_11">
+     <!-- P (Help) -->
+     <g transform="translate(18.795 133.55875) rotate(-90) scale(0.16 -0.16)">
+      <defs>
+       <path id="Arimo-Regular-50" d="M 3931 3078 
+Q 3931 2663 3747 2356 
+Q 3563 2050 3223 1883 
+Q 2884 1716 2416 1716 
+L 1122 1716 
+L 1122 0 
+L 525 0 
+L 525 4403 
+L 2378 4403 
+Q 3119 4403 3525 4056 
+Q 3931 3709 3931 3078 
+z
+M 3331 3072 
+Q 3331 3925 2306 3925 
+L 1122 3925 
+L 1122 2188 
+L 2331 2188 
+Q 2831 2188 3081 2408 
+Q 3331 2628 3331 3072 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-48" d="M 1122 2041 
+L 1122 0 
+L 525 0 
+L 525 4403 
+L 1122 4403 
+L 1122 2541 
+L 3503 2541 
+L 3503 4403 
+L 4100 4403 
+L 4100 0 
+L 3503 0 
+L 3503 2041 
+L 1122 2041 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-70" d="M 3291 1706 
+Q 3291 822 2980 379 
+Q 2669 -63 2047 -63 
+Q 1266 -63 997 525 
+L 981 525 
+Q 994 503 994 -6 
+L 994 -1328 
+L 431 -1328 
+L 431 2691 
+Q 431 2950 426 3123 
+Q 422 3297 413 3381 
+L 956 3381 
+Q 959 3369 967 3259 
+Q 975 3150 981 3023 
+Q 988 2897 988 2838 
+L 1000 2838 
+Q 1150 3150 1397 3295 
+Q 1644 3441 2047 3441 
+Q 2672 3441 2981 3022 
+Q 3291 2603 3291 1706 
+z
+M 2700 1694 
+Q 2700 2400 2509 2703 
+Q 2319 3006 1903 3006 
+Q 1441 3006 1217 2686 
+Q 994 2366 994 1650 
+Q 994 984 1206 668 
+Q 1419 353 1897 353 
+Q 2316 353 2508 661 
+Q 2700 969 2700 1694 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Arimo-Regular-50"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(66.699219 0)"/>
+      <use xlink:href="#Arimo-Regular-28" transform="translate(94.482422 0)"/>
+      <use xlink:href="#Arimo-Regular-48" transform="translate(127.783203 0)"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(200 0)"/>
+      <use xlink:href="#Arimo-Regular-6c" transform="translate(255.615234 0)"/>
+      <use xlink:href="#Arimo-Regular-70" transform="translate(277.832031 0)"/>
+      <use xlink:href="#Arimo-Regular-29" transform="translate(333.447266 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_10">
+    <path d="M 55.892273 141.438477 
+L 58.901518 140.343808 
+L 61.910763 139.23561 
+L 64.920008 138.114137 
+L 67.929253 136.979664 
+L 70.938498 135.832482 
+L 73.947743 134.672901 
+L 76.956988 133.501249 
+L 79.966233 132.317873 
+L 82.975478 131.123135 
+L 85.984723 129.917416 
+L 88.993968 128.701115 
+L 92.003213 127.474646 
+L 95.012458 126.238439 
+L 98.021703 124.992941 
+L 101.030948 123.738613 
+L 104.040193 122.475932 
+L 107.049438 121.205386 
+L 110.058683 119.92748 
+L 113.067928 118.642729 
+L 116.077173 117.351661 
+L 119.086418 116.054813 
+L 122.095663 114.752735 
+L 125.104908 113.445983 
+L 128.114153 112.135125 
+L 131.123398 110.820732 
+L 134.132643 109.503384 
+L 137.141888 108.183665 
+L 140.151133 106.862166 
+L 143.160378 105.539476 
+L 146.169622 104.216192 
+L 149.178867 102.892907 
+L 152.188112 101.570218 
+L 155.197357 100.248718 
+L 158.206602 98.929 
+L 161.215847 97.611652 
+L 164.225092 96.297259 
+L 167.234337 94.9864 
+L 170.243582 93.679649 
+L 173.252827 92.377571 
+L 176.262072 91.080723 
+L 179.271317 89.789655 
+L 182.280562 88.504904 
+L 185.289807 87.226998 
+L 188.299052 85.956452 
+L 191.308297 84.69377 
+L 194.317542 83.439442 
+L 197.326787 82.193944 
+L 200.336032 80.957738 
+L 203.345277 79.731268 
+L 206.354522 78.514967 
+L 209.363767 77.309249 
+L 212.373012 76.114511 
+L 215.382257 74.931135 
+L 218.391502 73.759483 
+L 221.400747 72.599902 
+L 224.409992 71.45272 
+L 227.419237 70.318247 
+L 230.428482 69.196774 
+L 233.437727 68.088575 
+" clip-path="url(#p114c3b2d16)" style="fill: none; stroke: #b0de54; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 55.892273 184.073423 
+L 58.901518 183.239216 
+L 61.910763 182.326856 
+L 64.920008 181.330051 
+L 67.929253 180.242218 
+L 70.938498 179.056509 
+L 73.947743 177.765854 
+L 76.956988 176.363021 
+L 79.966233 174.840683 
+L 82.975478 173.191512 
+L 85.984723 171.408279 
+L 88.993968 169.483982 
+L 92.003213 167.411988 
+L 95.012458 165.186198 
+L 98.021703 162.801222 
+L 101.030948 160.252577 
+L 104.040193 157.53689 
+L 107.049438 154.652107 
+L 110.058683 151.597702 
+L 113.067928 148.374878 
+L 116.077173 144.986747 
+L 119.086418 141.438477 
+L 122.095663 137.73741 
+L 125.104908 133.89312 
+L 128.114153 129.917416 
+L 131.123398 125.824283 
+L 134.132643 121.629744 
+L 137.141888 117.351661 
+L 140.151133 113.009459 
+L 143.160378 108.623799 
+L 146.169622 104.216192 
+L 149.178867 99.808585 
+L 152.188112 95.422925 
+L 155.197357 91.080723 
+L 158.206602 86.80264 
+L 161.215847 82.608101 
+L 164.225092 78.514967 
+L 167.234337 74.539264 
+L 170.243582 70.694974 
+L 173.252827 66.993907 
+L 176.262072 63.445637 
+L 179.271317 60.057505 
+L 182.280562 56.834682 
+L 185.289807 53.780277 
+L 188.299052 50.895493 
+L 191.308297 48.179806 
+L 194.317542 45.631162 
+L 197.326787 43.246186 
+L 200.336032 41.020396 
+L 203.345277 38.948402 
+L 206.354522 37.024105 
+L 209.363767 35.240872 
+L 212.373012 33.5917 
+L 215.382257 32.069363 
+L 218.391502 30.66653 
+L 221.400747 29.375875 
+L 224.409992 28.190165 
+L 227.419237 27.102333 
+L 230.428482 26.105528 
+L 233.437727 25.193167 
+" clip-path="url(#p114c3b2d16)" style="fill: none; stroke: #7c9c3e; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 55.892273 192.42 
+L 58.901518 192.412384 
+L 61.910763 192.402104 
+L 64.920008 192.38823 
+L 67.929253 192.369505 
+L 70.938498 192.344235 
+L 73.947743 192.310135 
+L 76.956988 192.264127 
+L 79.966233 192.202061 
+L 82.975478 192.118349 
+L 85.984723 192.005476 
+L 88.993968 191.853342 
+L 92.003213 191.6484 
+L 95.012458 191.372514 
+L 98.021703 191.001478 
+L 101.030948 190.503114 
+L 104.040193 189.834878 
+L 107.049438 188.940928 
+L 110.058683 187.748703 
+L 113.067928 186.165195 
+L 116.077173 184.073423 
+L 119.086418 181.330051 
+L 122.095663 177.765854 
+L 125.104908 173.191512 
+L 128.114153 167.411988 
+L 131.123398 160.252577 
+L 134.132643 151.597702 
+L 137.141888 141.438477 
+L 140.151133 129.917416 
+L 143.160378 117.351661 
+L 146.169622 104.216192 
+L 149.178867 91.080723 
+L 152.188112 78.514967 
+L 155.197357 66.993907 
+L 158.206602 56.834682 
+L 161.215847 48.179806 
+L 164.225092 41.020396 
+L 167.234337 35.240872 
+L 170.243582 30.66653 
+L 173.252827 27.102333 
+L 176.262072 24.358961 
+L 179.271317 22.267188 
+L 182.280562 20.683681 
+L 185.289807 19.491456 
+L 188.299052 18.597506 
+L 191.308297 17.929269 
+L 194.317542 17.430906 
+L 197.326787 17.05987 
+L 200.336032 16.783983 
+L 203.345277 16.579041 
+L 206.354522 16.426908 
+L 209.363767 16.314035 
+L 212.373012 16.230323 
+L 215.382257 16.168257 
+L 218.391502 16.122248 
+L 221.400747 16.088149 
+L 224.409992 16.062879 
+L 227.419237 16.044154 
+L 230.428482 16.03028 
+L 233.437727 16.02 
+" clip-path="url(#p114c3b2d16)" style="fill: none; stroke: #485925; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 47.015 201.24 
+L 47.015 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 47.015 201.24 
+L 242.315 201.24 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_13">
+     <path d="M 59.615 25.68 
+L 73.615 25.68 
+L 87.615 25.68 
+" style="fill: none; stroke: #b0de54; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_12">
+     <!-- $\beta$ = 0.3 -->
+     <g transform="translate(98.815 30.58) scale(0.14 -0.14)">
+      <defs>
+       <path id="DejaVuSans-Oblique-3b2" d="M 872 216 
+L 572 -1331 
+L -6 -1331 
+L 928 3478 
+Q 1206 4903 2538 4903 
+Q 3888 4903 3659 3700 
+Q 3503 2844 2894 2531 
+Q 3713 2250 3553 1416 
+Q 3272 -69 1759 -66 
+Q 1097 -63 872 216 
+z
+M 1019 966 
+Q 1259 422 1875 425 
+Q 2775 425 2966 1406 
+Q 3138 2288 1675 2219 
+L 1778 2750 
+Q 2909 2731 3106 3750 
+Q 3241 4438 2509 4434 
+Q 1691 4434 1503 3459 
+L 1019 966 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-3d" d="M 3422 3138 
+L 3422 2675 
+L 313 2675 
+L 313 3138 
+L 3422 3138 
+z
+M 3422 1538 
+L 3422 1075 
+L 313 1075 
+L 313 1538 
+L 3422 1538 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-33" d="M 3278 1216 
+Q 3278 606 2890 271 
+Q 2503 -63 1784 -63 
+Q 1116 -63 717 239 
+Q 319 541 244 1131 
+L 825 1184 
+Q 938 403 1784 403 
+Q 2209 403 2451 612 
+Q 2694 822 2694 1234 
+Q 2694 1594 2417 1795 
+Q 2141 1997 1619 1997 
+L 1300 1997 
+L 1300 2484 
+L 1606 2484 
+Q 2069 2484 2323 2686 
+Q 2578 2888 2578 3244 
+Q 2578 3597 2370 3801 
+Q 2163 4006 1753 4006 
+Q 1381 4006 1151 3815 
+Q 922 3625 884 3278 
+L 319 3322 
+Q 381 3863 767 4166 
+Q 1153 4469 1759 4469 
+Q 2422 4469 2789 4161 
+Q 3156 3853 3156 3303 
+Q 3156 2881 2920 2617 
+Q 2684 2353 2234 2259 
+L 2234 2247 
+Q 2728 2194 3003 1916 
+Q 3278 1638 3278 1216 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-Oblique-3b2" transform="translate(0 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(63.818359 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-3d" transform="translate(91.601562 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(150 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-30" transform="translate(177.783203 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-2e" transform="translate(233.398438 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-33" transform="translate(261.181641 0.390625)"/>
+     </g>
+    </g>
+    <g id="line2d_14">
+     <path d="M 59.615 46.4 
+L 73.615 46.4 
+L 87.615 46.4 
+" style="fill: none; stroke: #7c9c3e; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_13">
+     <!-- $\beta$ = 1 -->
+     <g transform="translate(98.815 51.3) scale(0.14 -0.14)">
+      <use xlink:href="#DejaVuSans-Oblique-3b2" transform="translate(0 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(63.818359 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-3d" transform="translate(91.601562 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(150 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-31" transform="translate(177.783203 0.390625)"/>
+     </g>
+    </g>
+    <g id="line2d_15">
+     <path d="M 59.615 67.12 
+L 73.615 67.12 
+L 87.615 67.12 
+" style="fill: none; stroke: #485925; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_14">
+     <!-- $\beta$ = 3 -->
+     <g transform="translate(98.815 72.02) scale(0.14 -0.14)">
+      <use xlink:href="#DejaVuSans-Oblique-3b2" transform="translate(0 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(63.818359 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-3d" transform="translate(91.601562 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(150 0.390625)"/>
+      <use xlink:href="#Arimo-Regular-33" transform="translate(177.783203 0.390625)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p114c3b2d16">
+   <rect x="47.015" y="7.2" width="195.3" height="194.04"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="276.381875pt" height="274.714215pt" viewBox="0 0 276.381875 274.714215" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-10-31T01:19:54.729980</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 274.714215 
+L 276.381875 274.714215 
+L 276.381875 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.981875 231.345153 
+L 269.181875 231.345153 
+L 269.181875 9.585153 
+L 45.981875 9.585153 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m434d4924b2" d="M 0 3.535534 
+C 0.937635 3.535534 1.836992 3.163008 2.5 2.5 
+C 3.163008 1.836992 3.535534 0.937635 3.535534 0 
+C 3.535534 -0.937635 3.163008 -1.836992 2.5 -2.5 
+C 1.836992 -3.163008 0.937635 -3.535534 0 -3.535534 
+C -0.937635 -3.535534 -1.836992 -3.163008 -2.5 -2.5 
+C -3.163008 -1.836992 -3.535534 -0.937635 -3.535534 0 
+C -3.535534 0.937635 -3.163008 1.836992 -2.5 2.5 
+C -1.836992 3.163008 -0.937635 3.535534 0 3.535534 
+z
+" style="stroke: #3fc0c4; stroke-opacity: 0.8"/>
+    </defs>
+    <g clip-path="url(#pd054eff482)">
+     <use xlink:href="#m434d4924b2" x="155.177311" y="117.577728" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="166.84632" y="60.587325" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="147.875064" y="92.4358" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="160.967362" y="55.718653" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="178.372492" y="73.435085" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="148.692711" y="148.907647" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="154.475186" y="135.167388" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="178.683674" y="116.597434" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="177.153405" y="77.633507" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="161.443636" y="136.124356" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="186.26759" y="84.63173" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="185.365428" y="106.539108" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="132.906142" y="118.630392" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="151.988428" y="105.521134" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="150.103623" y="89.80713" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="186.390449" y="128.168168" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="146.314629" y="105.571674" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="147.209165" y="108.709032" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="143.736579" y="116.982016" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="115.786047" y="148.222043" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="192.357248" y="122.10857" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="102.161382" y="138.286504" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="174.17622" y="112.11464" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="137.382696" y="103.775865" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="184.182514" y="133.46578" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="143.683868" y="110.702515" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="187.505217" y="57.446677" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="110.274578" y="221.265153" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="171.27832" y="122.308138" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="160.185699" y="126.05003" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="56.12733" y="153.324051" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="151.630937" y="158.510815" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="121.936252" y="144.506792" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="144.62329" y="68.470942" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="179.455008" y="115.031596" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="124.204167" y="90.103192" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="160.469974" y="109.486568" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="159.99221" y="69.494" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="178.135357" y="97.39329" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="132.849887" y="137.630981" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="179.725457" y="99.619741" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="132.776928" y="129.548195" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="146.651713" y="108.972198" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="106.748305" y="100.213154" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="193.905198" y="85.313429" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="154.061826" y="137.275707" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="69.683937" y="171.428979" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="141.311333" y="150.371508" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="141.536263" y="126.063637" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="169.890127" y="142.676592" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="167.495595" y="64.41983" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="156.139925" y="110.564353" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="124.9633" y="132.88522" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="91.359596" y="153.526211" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="180.573988" y="74.847336" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="95.119561" y="141.800967" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="171.669416" y="114.234722" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="149.100401" y="91.519645" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="174.332686" y="129.341251" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="129.578815" y="141.374518" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="176.460665" y="66.131157" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="186.457828" y="97.438946" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="177.301817" y="135.878734" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="171.337173" y="116.919813" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="137.74983" y="119.544894" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="170.141544" y="103.691332" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="164.107086" y="101.408543" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="67.387325" y="176.15251" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="147.487906" y="93.313818" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="130.292549" y="101.503067" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="98.157526" y="141.911018" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="174.875855" y="118.117218" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="172.144253" y="135.860591" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="176.755148" y="95.864136" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="160.404454" y="91.738709" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="106.94021" y="155.386466" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="116.84424" y="122.308138" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="191.589161" y="123.551597" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="193.185867" y="94.400574" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="144.829997" y="159.902007" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="184.131915" y="75.010619" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="184.733387" y="83.592025" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="161.958371" y="129.446517" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="208.256139" y="105.046239" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="212.816234" y="105.54446" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="180.707458" y="79.385754" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="137.299278" y="131.858075" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="173.950612" y="71.418402" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="141.179277" y="104.46219" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="134.414954" y="133.498227" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="154.536213" y="107.485709" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="129.581383" y="140.867924" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="174.7092" y="102.088312" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="68.672304" y="154.910574" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="192.953036" y="109.051148" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="117.555304" y="149.08648" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="153.865033" y="154.526242" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="145.906662" y="120.235705" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="113.478874" y="181.180577" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="150.039082" y="107.21392" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="114.885965" y="141.575481" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="118.301469" y="164.782541" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="153.465143" y="127.058883" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="210.04849" y="40.874443" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="159.693234" y="70.242379" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="109.557735" y="113.581591" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="141.283147" y="108.90536" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="171.27135" y="139.520842" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="137.437758" y="124.959536" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="165.446416" y="88.956872" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="145.453204" y="124.841111" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="143.724177" y="85.366203" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="182.593177" y="116.459272" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="170.236821" y="97.761324" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="149.336339" y="90.761107" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="216.624277" y="101.068843" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="129.345148" y="184.527172" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="150.869022" y="120.961056" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="116.659159" y="151.223508" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="165.582371" y="115.640168" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="66.875553" y="149.08648" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="172.14257" y="116.746433" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="170.381184" y="81.526371" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="119.460734" y="143.493005" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="192.797596" y="98.992224" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="167.37046" y="81.131622" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="140.56898" y="96.001501" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="179.700977" y="124.678567" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="151.995284" y="69.622294" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="78.084823" y="136.938775" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="147.895431" y="104.047703" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="156.54828" y="118.886979" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="238.965976" y="114.522908" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="166.020252" y="123.046797" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="164.280145" y="114.974029" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="184.812753" y="19.665153" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="203.630519" y="119.870562" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="178.777543" y="134.554331" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="181.522451" y="77.776055" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="173.552334" y="114.882668" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="151.33806" y="146.528386" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="104.288669" y="105.358766" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="195.312098" y="48.20026" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="141.07533" y="139.052078" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="103.950203" y="150.32336" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="67.81473" y="152.934087" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="182.488806" y="118.614841" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="145.191345" y="103.698111" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="220.2608" y="102.224381" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="198.006101" y="139.209978" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="113.413569" y="154.785819" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="153.844128" y="149.213876" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="70.148383" y="154.43852" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="121.727579" y="112.932847" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="212.125419" y="29.509208" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="251.63383" y="109.564322" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="105.222693" y="136.396493" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="139.927896" y="129.546999" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="202.740214" y="152.043709" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="107.818538" y="141.219609" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="64.523469" y="165.544127" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="158.368023" y="111.695967" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="170.748218" y="104.242386" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="153.200535" y="93.108668" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="164.120154" y="93.014466" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="177.141285" y="74.807562" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="182.31973" y="82.793755" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="152.059187" y="99.439606" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="80.966878" y="168.34246" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="135.653337" y="110.648908" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="58.934907" y="144.545669" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="178.384712" y="136.249359" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="161.213952" y="116.922205" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="110.622383" y="185.954848" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="153.838775" y="137.457132" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="161.237902" y="120.185464" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="156.072797" y="147.539183" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="162.518989" y="100.006459" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="142.207867" y="125.301652" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="127.525621" y="122.329071" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="77.041887" y="154.545979" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="188.318915" y="91.23361" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="179.51464" y="121.452848" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="165.924008" y="138.406125" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="145.227998" y="111.897827" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="159.195551" y="122.429553" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="167.668631" y="105.348132" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="160.205474" y="105.081726" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="148.299909" y="136.993103" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="158.695124" y="98.877387" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="213.977227" y="146.854951" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="176.819372" y="84.389299" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="134.442299" y="90.685746" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="60.841259" y="162.019297" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="162.392608" y="124.567927" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="146.973008" y="149.743797" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="191.139179" y="140.39901" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="173.164275" y="121.494715" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="198.985992" y="51.450678" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="142.30778" y="95.722561" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="188.360542" y="122.827891" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="189.031137" y="46.615002" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="156.629809" y="127.442468" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="180.464192" y="69.672186" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="142.720145" y="94.012105" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="64.71874" y="158.508273" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="87.083156" y="133.63325" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="149.252194" y="109.266465" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="146.165834" y="177.480901" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="92.427234" y="147.975518" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="198.339869" y="107.775989" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="163.670534" y="132.105092" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="144.955391" y="117.011921" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="137.722272" y="134.581545" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+     <use xlink:href="#m434d4924b2" x="144.92474" y="129.301389" style="fill: #3fc0c4; fill-opacity: 0.8; stroke: #3fc0c4; stroke-opacity: 0.8"/>
+    </g>
+   </g>
+   <g id="FillBetweenPolyCollection_1">
+    <path d="M 60.711059 151.279289 
+L 60.711059 167.673763 
+L 62.714345 166.586184 
+L 64.717632 165.491753 
+L 66.720918 164.347091 
+L 68.724205 163.2382 
+L 70.727491 162.12931 
+L 72.730778 161.023322 
+L 74.734064 160.002755 
+L 76.737351 158.982621 
+L 78.740637 157.935216 
+L 80.743923 156.844166 
+L 82.74721 155.747449 
+L 84.750496 154.573455 
+L 86.753783 153.418912 
+L 88.757069 152.347767 
+L 90.760356 151.302727 
+L 92.763642 150.246204 
+L 94.766929 149.195638 
+L 96.770215 148.110722 
+L 98.773502 147.033352 
+L 100.776788 145.989253 
+L 102.780075 144.82733 
+L 104.783361 143.752819 
+L 106.786648 142.708812 
+L 108.789934 141.60737 
+L 110.793221 140.539896 
+L 112.796507 139.451475 
+L 114.799794 138.4218 
+L 116.80308 137.362324 
+L 118.806367 136.258533 
+L 120.809653 135.229593 
+L 122.81294 134.31645 
+L 124.816226 133.299091 
+L 126.819513 132.229987 
+L 128.822799 131.271384 
+L 130.826086 130.313307 
+L 132.829372 129.267402 
+L 134.832659 128.261142 
+L 136.835945 127.248036 
+L 138.839231 126.253909 
+L 140.842518 125.276935 
+L 142.845804 124.341081 
+L 144.849091 123.379424 
+L 146.852377 122.403111 
+L 148.855664 121.447134 
+L 150.85895 120.627873 
+L 152.862237 119.775767 
+L 154.865523 118.965657 
+L 156.86881 118.168506 
+L 158.872096 117.360875 
+L 160.875383 116.466389 
+L 162.878669 115.601356 
+L 164.881956 114.763794 
+L 166.885242 113.973636 
+L 168.888529 113.098301 
+L 170.891815 112.276959 
+L 172.895102 111.45785 
+L 174.898388 110.63852 
+L 176.901675 109.867172 
+L 178.904961 109.062995 
+L 180.908248 108.29983 
+L 182.911534 107.487735 
+L 184.914821 106.705167 
+L 186.918107 105.924659 
+L 188.921394 105.150165 
+L 190.92468 104.387315 
+L 192.927967 103.591068 
+L 194.931253 102.804327 
+L 196.934539 102.036808 
+L 198.937826 101.260309 
+L 200.941112 100.523636 
+L 202.944399 99.793562 
+L 204.947685 99.051093 
+L 206.950972 98.315504 
+L 208.954258 97.537737 
+L 210.957545 96.758931 
+L 212.960831 95.996135 
+L 214.964118 95.233473 
+L 216.967404 94.470559 
+L 218.970691 93.707646 
+L 220.973977 92.961035 
+L 222.977264 92.204814 
+L 224.98055 91.46549 
+L 226.983837 90.726166 
+L 228.987123 89.985893 
+L 230.99041 89.242783 
+L 232.993696 88.503418 
+L 234.996983 87.764512 
+L 237.000269 87.022114 
+L 239.003556 86.196608 
+L 241.006842 85.393058 
+L 243.010129 84.639882 
+L 245.013415 83.886707 
+L 247.016702 83.149629 
+L 249.019988 82.423566 
+L 251.023275 81.697504 
+L 253.026561 80.971441 
+L 255.029847 80.245379 
+L 257.033134 79.519317 
+L 259.03642 78.793254 
+L 259.03642 54.423588 
+L 259.03642 54.423588 
+L 257.033134 55.504544 
+L 255.029847 56.589677 
+L 253.026561 57.697925 
+L 251.023275 58.814918 
+L 249.019988 59.914081 
+L 247.016702 61.021748 
+L 245.013415 62.130238 
+L 243.010129 63.30826 
+L 241.006842 64.43476 
+L 239.003556 65.559186 
+L 237.000269 66.700707 
+L 234.996983 67.861646 
+L 232.993696 69.018095 
+L 230.99041 70.127735 
+L 228.987123 71.237374 
+L 226.983837 72.347548 
+L 224.98055 73.456653 
+L 222.977264 74.569353 
+L 220.973977 75.753746 
+L 218.970691 76.938365 
+L 216.967404 78.121528 
+L 214.964118 79.245564 
+L 212.960831 80.3696 
+L 210.957545 81.493636 
+L 208.954258 82.617672 
+L 206.950972 83.741709 
+L 204.947685 84.850776 
+L 202.944399 85.951798 
+L 200.941112 87.053347 
+L 198.937826 88.199684 
+L 196.934539 89.2707 
+L 194.931253 90.351991 
+L 192.927967 91.450577 
+L 190.92468 92.550185 
+L 188.921394 93.653737 
+L 186.918107 94.748934 
+L 184.914821 95.885601 
+L 182.911534 97.015022 
+L 180.908248 98.118858 
+L 178.904961 99.18177 
+L 176.901675 100.247562 
+L 174.898388 101.344067 
+L 172.895102 102.379581 
+L 170.891815 103.474316 
+L 168.888529 104.513759 
+L 166.885242 105.532716 
+L 164.881956 106.540825 
+L 162.878669 107.646713 
+L 160.875383 108.74454 
+L 158.872096 109.782076 
+L 156.86881 110.814143 
+L 154.865523 111.887807 
+L 152.862237 112.897424 
+L 150.85895 113.947063 
+L 148.855664 114.97844 
+L 146.852377 115.976892 
+L 144.849091 117.000203 
+L 142.845804 117.955206 
+L 140.842518 118.938632 
+L 138.839231 119.861858 
+L 136.835945 120.763004 
+L 134.832659 121.691585 
+L 132.829372 122.679464 
+L 130.826086 123.574143 
+L 128.822799 124.498114 
+L 126.819513 125.378462 
+L 124.816226 126.208461 
+L 122.81294 127.075486 
+L 120.809653 127.956003 
+L 118.806367 128.738223 
+L 116.80308 129.65468 
+L 114.799794 130.438051 
+L 112.796507 131.203715 
+L 110.793221 131.93032 
+L 108.789934 132.702324 
+L 106.786648 133.481946 
+L 104.783361 134.279952 
+L 102.780075 135.07867 
+L 100.776788 135.874544 
+L 98.773502 136.620839 
+L 96.770215 137.470988 
+L 94.766929 138.218917 
+L 92.763642 138.98255 
+L 90.760356 139.748038 
+L 88.757069 140.475053 
+L 86.753783 141.218818 
+L 84.750496 141.975769 
+L 82.74721 142.769658 
+L 80.743923 143.576888 
+L 78.740637 144.35804 
+L 76.737351 145.139192 
+L 74.734064 145.909837 
+L 72.730778 146.694324 
+L 70.727491 147.479675 
+L 68.724205 148.260484 
+L 66.720918 149.04083 
+L 64.717632 149.793864 
+L 62.714345 150.537723 
+L 60.711059 151.279289 
+z
+" clip-path="url(#pd054eff482)" style="fill: #3fc0c4; fill-opacity: 0.15"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m1f9e4fac46" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="60.711059" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0.0 -->
+      <g transform="translate(52.371059 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-30" d="M 3309 2203 
+Q 3309 1100 2920 518 
+Q 2531 -63 1772 -63 
+Q 1013 -63 631 515 
+Q 250 1094 250 2203 
+Q 250 3338 620 3903 
+Q 991 4469 1791 4469 
+Q 2569 4469 2939 3897 
+Q 3309 3325 3309 2203 
+z
+M 2738 2203 
+Q 2738 2841 2642 3239 
+Q 2547 3638 2337 3825 
+Q 2128 4013 1791 4013 
+Q 1447 4013 1231 3828 
+Q 1016 3644 917 3245 
+Q 819 2847 819 2203 
+Q 819 1578 920 1178 
+Q 1022 778 1234 587 
+Q 1447 397 1778 397 
+Q 2275 397 2506 840 
+Q 2738 1284 2738 2203 
+z
+" transform="scale(0.015625)"/>
+        <path id="Arimo-Regular-2e" d="M 1194 684 
+L 1194 0 
+L 584 0 
+L 584 684 
+L 1194 684 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-30" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="100.376131" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 0.2 -->
+      <g transform="translate(92.036131 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-32" d="M 3238 478 
+L 3238 0 
+L 322 0 
+L 322 397 
+Q 481 763 707 1044 
+Q 934 1325 1190 1550 
+Q 1447 1775 1697 1969 
+Q 1822 2066 1933 2162 
+Q 2044 2259 2144 2356 
+Q 2344 2550 2467 2762 
+Q 2591 2975 2591 3244 
+Q 2591 3606 2378 3806 
+Q 2166 4006 1788 4006 
+Q 1428 4006 1195 3811 
+Q 963 3616 922 3263 
+L 347 3316 
+Q 409 3844 795 4156 
+Q 1181 4469 1788 4469 
+Q 2453 4469 2811 4155 
+Q 3169 3841 3169 3263 
+Q 3169 3006 3051 2753 
+Q 2934 2500 2703 2247 
+Q 2588 2122 2366 1925 
+Q 2144 1728 1819 1463 
+Q 1459 1169 1246 933 
+Q 1034 697 941 478 
+L 3238 478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-32" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="140.041203" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 0.4 -->
+      <g transform="translate(131.701203 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-34" d="M 2753 997 
+L 2753 0 
+L 2222 0 
+L 2222 997 
+L 147 997 
+L 147 1434 
+L 2163 4403 
+L 2753 4403 
+L 2753 1441 
+L 3372 1441 
+L 3372 997 
+L 2753 997 
+z
+M 666 1441 
+L 2222 1441 
+L 2222 3197 
+Q 2222 3341 2223 3483 
+Q 2225 3625 2234 3769 
+Q 2163 3631 2109 3545 
+Q 2056 3459 2013 3397 
+L 666 1441 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-34" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="179.706276" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 0.6 -->
+      <g transform="translate(171.366276 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-36" d="M 3278 1441 
+Q 3278 744 2900 340 
+Q 2522 -63 1856 -63 
+Q 1113 -63 719 490 
+Q 325 1044 325 2100 
+Q 325 3244 734 3856 
+Q 1144 4469 1900 4469 
+Q 2400 4469 2714 4244 
+Q 3028 4019 3156 3572 
+L 2619 3475 
+Q 2456 4013 1894 4013 
+Q 1413 4013 1148 3564 
+Q 884 3116 884 2266 
+Q 1038 2550 1316 2698 
+Q 1594 2847 1953 2847 
+Q 2563 2847 2920 2465 
+Q 3278 2084 3278 1441 
+z
+M 2706 1416 
+Q 2706 1894 2472 2153 
+Q 2238 2413 1819 2413 
+Q 1425 2413 1183 2183 
+Q 941 1953 941 1550 
+Q 941 1213 1056 950 
+Q 1172 688 1373 539 
+Q 1575 391 1838 391 
+Q 2244 391 2475 664 
+Q 2706 938 2706 1416 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-36" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="219.371348" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 0.8 -->
+      <g transform="translate(211.031348 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-38" d="M 3281 1228 
+Q 3281 619 2893 278 
+Q 2506 -63 1781 -63 
+Q 1075 -63 676 271 
+Q 278 606 278 1222 
+Q 278 1653 525 1947 
+Q 772 2241 1156 2303 
+L 1156 2316 
+Q 797 2400 589 2681 
+Q 381 2963 381 3341 
+Q 381 3844 757 4156 
+Q 1134 4469 1769 4469 
+Q 2419 4469 2795 4162 
+Q 3172 3856 3172 3334 
+Q 3172 2956 2962 2675 
+Q 2753 2394 2391 2322 
+L 2391 2309 
+Q 2813 2241 3047 1952 
+Q 3281 1663 3281 1228 
+z
+M 2588 3303 
+Q 2588 4050 1769 4050 
+Q 956 4050 956 3303 
+Q 956 2925 1170 2726 
+Q 1384 2528 1775 2528 
+Q 2172 2528 2380 2711 
+Q 2588 2894 2588 3303 
+z
+M 2697 1281 
+Q 2697 1691 2453 1898 
+Q 2209 2106 1769 2106 
+Q 1341 2106 1100 1882 
+Q 859 1659 859 1269 
+Q 859 816 1092 587 
+Q 1325 359 1788 359 
+Q 2247 359 2472 579 
+Q 2697 800 2697 1281 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-30"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-38" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m1f9e4fac46" x="259.03642" y="231.345153" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 1.0 -->
+      <g transform="translate(250.69642 247.041403) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-31" d="M 3247 478 
+L 3247 0 
+L 488 0 
+L 488 478 
+L 1609 478 
+L 1609 3866 
+L 616 3156 
+L 616 3688 
+L 1656 4403 
+L 2175 4403 
+L 2175 478 
+L 3247 478 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-31"/>
+       <use xlink:href="#Arimo-Regular-2e" transform="translate(55.615234 0)"/>
+       <use xlink:href="#Arimo-Regular-30" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- Weight of Self Cost (w_cost) -->
+     <g transform="translate(62.971719 264.401715) scale(0.15 -0.15)">
+      <defs>
+       <path id="Arimo-Regular-57" d="M 2803 2781 
+L 2038 0 
+L 1325 0 
+L 28 4403 
+L 650 4403 
+L 1441 1606 
+Q 1513 1344 1577 1073 
+Q 1641 803 1700 525 
+Q 1725 641 1767 830 
+Q 1809 1019 1856 1216 
+Q 1903 1413 1941 1547 
+L 2741 4403 
+L 3313 4403 
+L 4078 1663 
+Q 4166 1328 4234 1042 
+Q 4303 756 4353 525 
+Q 4400 709 4451 923 
+Q 4503 1138 4548 1314 
+Q 4594 1491 4613 1566 
+L 5397 4403 
+L 6019 4403 
+L 4722 0 
+L 4009 0 
+L 3247 2797 
+Q 3209 2928 3154 3162 
+Q 3100 3397 3028 3738 
+Q 3000 3572 2954 3380 
+Q 2909 3188 2867 3025 
+Q 2825 2863 2803 2781 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-65" d="M 863 1572 
+Q 863 991 1103 675 
+Q 1344 359 1806 359 
+Q 2172 359 2392 506 
+Q 2613 653 2691 878 
+L 3184 738 
+Q 2881 -63 1806 -63 
+Q 1056 -63 664 384 
+Q 272 831 272 1713 
+Q 272 2550 664 2997 
+Q 1056 3444 1784 3444 
+Q 2531 3444 2903 2994 
+Q 3275 2544 3275 1647 
+L 3275 1572 
+L 863 1572 
+z
+M 2694 2003 
+Q 2647 2538 2422 2783 
+Q 2197 3028 1775 3028 
+Q 1366 3028 1127 2754 
+Q 888 2481 869 2003 
+L 2694 2003 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-69" d="M 991 4638 
+L 991 4100 
+L 428 4100 
+L 428 4638 
+L 991 4638 
+z
+M 991 3381 
+L 991 0 
+L 428 0 
+L 428 3381 
+L 991 3381 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-67" d="M 1713 -1328 
+Q 1159 -1328 831 -1111 
+Q 503 -894 409 -494 
+L 975 -413 
+Q 1031 -647 1223 -773 
+Q 1416 -900 1728 -900 
+Q 2147 -900 2358 -653 
+Q 2569 -406 2569 84 
+L 2569 628 
+L 2563 628 
+Q 2403 303 2125 139 
+Q 1847 -25 1475 -25 
+Q 853 -25 561 387 
+Q 269 800 269 1684 
+Q 269 2581 583 3007 
+Q 897 3434 1538 3434 
+Q 1897 3434 2161 3270 
+Q 2425 3106 2569 2803 
+L 2575 2803 
+Q 2575 2866 2581 2998 
+Q 2588 3131 2597 3250 
+Q 2606 3369 2613 3381 
+L 3147 3381 
+Q 3128 3213 3128 2681 
+L 3128 97 
+Q 3128 -616 2775 -972 
+Q 2422 -1328 1713 -1328 
+z
+M 2569 1691 
+Q 2569 2306 2317 2661 
+Q 2066 3016 1675 3016 
+Q 1244 3016 1047 2703 
+Q 850 2391 850 1691 
+Q 850 997 1034 694 
+Q 1219 391 1666 391 
+Q 2066 391 2317 739 
+Q 2569 1088 2569 1691 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-68" d="M 991 2803 
+Q 1172 3134 1426 3289 
+Q 1681 3444 2072 3444 
+Q 2622 3444 2883 3158 
+Q 3144 2872 3144 2253 
+L 3144 0 
+L 2578 0 
+L 2578 2144 
+Q 2578 2603 2417 2806 
+Q 2256 3009 1881 3009 
+Q 1484 3009 1245 2734 
+Q 1006 2459 1006 1994 
+L 1006 0 
+L 444 0 
+L 444 4638 
+L 1006 4638 
+L 1006 3431 
+Q 1006 3306 1000 3167 
+Q 994 3028 989 2926 
+Q 984 2825 981 2803 
+L 991 2803 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-74" d="M 1731 25 
+Q 1456 -50 1163 -50 
+Q 825 -50 656 142 
+Q 488 334 488 716 
+L 488 2972 
+L 97 2972 
+L 97 3381 
+L 509 3381 
+L 675 4138 
+L 1050 4138 
+L 1050 3381 
+L 1675 3381 
+L 1675 2972 
+L 1050 2972 
+L 1050 838 
+Q 1050 594 1129 495 
+Q 1209 397 1406 397 
+Q 1513 397 1731 441 
+L 1731 25 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-20" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-6f" d="M 3291 1694 
+Q 3291 806 2900 371 
+Q 2509 -63 1766 -63 
+Q 1025 -63 647 389 
+Q 269 841 269 1694 
+Q 269 2569 648 3006 
+Q 1028 3444 1784 3444 
+Q 2559 3444 2925 3017 
+Q 3291 2591 3291 1694 
+z
+M 2700 1694 
+Q 2700 2394 2492 2711 
+Q 2284 3028 1794 3028 
+Q 1300 3028 1079 2704 
+Q 859 2381 859 1694 
+Q 859 1025 1076 689 
+Q 1294 353 1759 353 
+Q 2266 353 2483 678 
+Q 2700 1003 2700 1694 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-66" d="M 1128 2972 
+L 1128 0 
+L 566 0 
+L 566 2972 
+L 91 2972 
+L 91 3381 
+L 566 3381 
+L 566 3763 
+Q 566 4225 769 4428 
+Q 972 4631 1391 4631 
+Q 1625 4631 1788 4594 
+L 1788 4166 
+Q 1638 4191 1538 4191 
+Q 1322 4191 1225 4081 
+Q 1128 3972 1128 3684 
+L 1128 3381 
+L 1788 3381 
+L 1788 2972 
+L 1128 2972 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-53" d="M 3975 1216 
+Q 3975 606 3498 271 
+Q 3022 -63 2156 -63 
+Q 547 -63 291 1056 
+L 869 1172 
+Q 969 775 1294 589 
+Q 1619 403 2178 403 
+Q 2756 403 3070 601 
+Q 3384 800 3384 1184 
+Q 3384 1400 3286 1534 
+Q 3188 1669 3009 1756 
+Q 2831 1844 2584 1903 
+Q 2338 1963 2038 2031 
+Q 1691 2109 1458 2184 
+Q 1225 2259 1075 2342 
+Q 925 2425 819 2519 
+Q 663 2663 580 2853 
+Q 497 3044 497 3291 
+Q 497 3856 930 4162 
+Q 1363 4469 2169 4469 
+Q 2919 4469 3316 4239 
+Q 3713 4009 3872 3456 
+L 3284 3353 
+Q 3188 3703 2916 3861 
+Q 2644 4019 2163 4019 
+Q 1634 4019 1356 3844 
+Q 1078 3669 1078 3322 
+Q 1078 3119 1186 2986 
+Q 1294 2853 1497 2763 
+Q 1688 2672 2306 2534 
+Q 2559 2475 2806 2411 
+Q 3053 2347 3272 2250 
+Q 3400 2197 3517 2120 
+Q 3634 2044 3722 1944 
+Q 3841 1813 3908 1634 
+Q 3975 1456 3975 1216 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-6c" d="M 994 4638 
+L 994 0 
+L 431 0 
+L 431 4638 
+L 994 4638 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-43" d="M 2500 428 
+Q 3425 428 3891 1344 
+L 4378 1100 
+Q 4106 531 3614 234 
+Q 3122 -63 2472 -63 
+Q 1803 -63 1322 215 
+Q 841 494 583 1008 
+Q 325 1522 325 2222 
+Q 325 2925 581 3428 
+Q 838 3931 1319 4200 
+Q 1800 4469 2469 4469 
+Q 3172 4469 3644 4194 
+Q 4116 3919 4338 3378 
+L 3772 3191 
+Q 3619 3575 3280 3778 
+Q 2941 3981 2475 3981 
+Q 1744 3981 1337 3511 
+Q 931 3041 931 2222 
+Q 931 1684 1123 1279 
+Q 1316 875 1667 651 
+Q 2019 428 2500 428 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-73" d="M 2969 934 
+Q 2969 456 2608 196 
+Q 2247 -63 1597 -63 
+Q 966 -63 623 145 
+Q 281 353 178 794 
+L 675 891 
+Q 747 619 972 492 
+Q 1197 366 1597 366 
+Q 2025 366 2223 497 
+Q 2422 628 2422 891 
+Q 2422 1091 2284 1216 
+Q 2147 1341 1841 1422 
+Q 1478 1519 1264 1581 
+Q 1050 1644 934 1689 
+Q 819 1734 750 1775 
+Q 544 1894 428 2066 
+Q 313 2238 313 2488 
+Q 313 2950 642 3192 
+Q 972 3434 1603 3434 
+Q 2163 3434 2492 3237 
+Q 2822 3041 2909 2606 
+L 2403 2544 
+Q 2356 2769 2151 2889 
+Q 1947 3009 1603 3009 
+Q 1222 3009 1040 2893 
+Q 859 2778 859 2544 
+Q 859 2372 962 2261 
+Q 1066 2150 1356 2078 
+Q 1747 1984 2100 1873 
+Q 2453 1763 2606 1653 
+Q 2784 1525 2876 1351 
+Q 2969 1178 2969 934 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-28" d="M 1550 -1325 
+Q 1156 -900 900 -440 
+Q 644 19 520 536 
+Q 397 1053 397 1650 
+Q 397 2259 522 2778 
+Q 647 3297 903 3756 
+Q 1159 4216 1550 4638 
+L 2094 4638 
+Q 1509 3988 1236 3256 
+Q 963 2525 963 1656 
+Q 963 1081 1081 565 
+Q 1200 50 1450 -417 
+Q 1700 -884 2094 -1325 
+L 1550 -1325 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-77" d="M 2200 2391 
+L 1588 0 
+L 938 0 
+L -9 3381 
+L 547 3381 
+L 1128 1041 
+Q 1153 941 1187 787 
+Q 1222 634 1253 466 
+Q 1288 613 1323 759 
+Q 1359 906 1397 1050 
+L 2013 3381 
+L 2616 3381 
+L 3206 1059 
+Q 3244 913 3280 763 
+Q 3316 613 3350 466 
+Q 3384 616 3420 780 
+Q 3456 944 3488 1069 
+L 4088 3381 
+L 4638 3381 
+L 3669 0 
+L 3016 0 
+L 2425 2391 
+Q 2394 2522 2367 2655 
+Q 2341 2788 2313 2919 
+Q 2300 2850 2267 2686 
+Q 2234 2522 2200 2391 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-5f" d="M 3631 -866 
+L 3631 -1272 
+L -97 -1272 
+L -97 -866 
+L 3631 -866 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-63" d="M 1728 -63 
+Q 1019 -63 645 385 
+Q 272 834 272 1694 
+Q 272 2547 647 2995 
+Q 1022 3444 1722 3444 
+Q 2241 3444 2583 3175 
+Q 2925 2906 3013 2434 
+L 2434 2391 
+Q 2391 2672 2212 2837 
+Q 2034 3003 1706 3003 
+Q 1259 3003 1059 2706 
+Q 859 2409 859 1706 
+Q 859 1031 1071 706 
+Q 1284 381 1713 381 
+Q 2013 381 2214 543 
+Q 2416 706 2463 1044 
+L 3031 1006 
+Q 2988 681 2814 440 
+Q 2641 200 2364 68 
+Q 2088 -63 1728 -63 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-29" d="M 38 -1325 
+Q 431 -888 681 -420 
+Q 931 47 1050 561 
+Q 1169 1075 1169 1656 
+Q 1169 2528 895 3256 
+Q 622 3984 38 4638 
+L 581 4638 
+Q 975 4213 1229 3753 
+Q 1484 3294 1609 2778 
+Q 1734 2263 1734 1663 
+Q 1734 1056 1609 536 
+Q 1484 16 1229 -442 
+Q 975 -900 581 -1325 
+L 38 -1325 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Arimo-Regular-57"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(94.384766 0)"/>
+      <use xlink:href="#Arimo-Regular-69" transform="translate(150 0)"/>
+      <use xlink:href="#Arimo-Regular-67" transform="translate(172.216797 0)"/>
+      <use xlink:href="#Arimo-Regular-68" transform="translate(227.832031 0)"/>
+      <use xlink:href="#Arimo-Regular-74" transform="translate(283.447266 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(311.230469 0)"/>
+      <use xlink:href="#Arimo-Regular-6f" transform="translate(339.013672 0)"/>
+      <use xlink:href="#Arimo-Regular-66" transform="translate(394.628906 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(422.412109 0)"/>
+      <use xlink:href="#Arimo-Regular-53" transform="translate(450.195312 0)"/>
+      <use xlink:href="#Arimo-Regular-65" transform="translate(516.894531 0)"/>
+      <use xlink:href="#Arimo-Regular-6c" transform="translate(572.509766 0)"/>
+      <use xlink:href="#Arimo-Regular-66" transform="translate(594.726562 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(622.509766 0)"/>
+      <use xlink:href="#Arimo-Regular-43" transform="translate(650.292969 0)"/>
+      <use xlink:href="#Arimo-Regular-6f" transform="translate(722.509766 0)"/>
+      <use xlink:href="#Arimo-Regular-73" transform="translate(778.125 0)"/>
+      <use xlink:href="#Arimo-Regular-74" transform="translate(828.125 0)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(855.908203 0)"/>
+      <use xlink:href="#Arimo-Regular-28" transform="translate(883.691406 0)"/>
+      <use xlink:href="#Arimo-Regular-77" transform="translate(916.992188 0)"/>
+      <use xlink:href="#Arimo-Regular-5f" transform="translate(989.208984 0)"/>
+      <use xlink:href="#Arimo-Regular-63" transform="translate(1044.824219 0)"/>
+      <use xlink:href="#Arimo-Regular-6f" transform="translate(1094.824219 0)"/>
+      <use xlink:href="#Arimo-Regular-73" transform="translate(1150.439453 0)"/>
+      <use xlink:href="#Arimo-Regular-74" transform="translate(1200.439453 0)"/>
+      <use xlink:href="#Arimo-Regular-29" transform="translate(1228.222656 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m760a8c6ddf" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="227.081123" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- −2 -->
+      <g transform="translate(25.3 231.429248) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-2212" d="M 3425 2356 
+L 3425 1900 
+L 316 1900 
+L 316 2356 
+L 3425 2356 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-2212"/>
+       <use xlink:href="#Arimo-Regular-32" transform="translate(58.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="191.158956" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- −1 -->
+      <g transform="translate(25.3 195.507081) scale(0.12 -0.12)">
+       <use xlink:href="#Arimo-Regular-2212"/>
+       <use xlink:href="#Arimo-Regular-31" transform="translate(58.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="155.23679" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 0 -->
+      <g transform="translate(32.30875 159.584915) scale(0.12 -0.12)">
+       <use xlink:href="#Arimo-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="119.314624" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 1 -->
+      <g transform="translate(32.30875 123.662749) scale(0.12 -0.12)">
+       <use xlink:href="#Arimo-Regular-31"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="83.392458" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 2 -->
+      <g transform="translate(32.30875 87.740583) scale(0.12 -0.12)">
+       <use xlink:href="#Arimo-Regular-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="47.470291" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 3 -->
+      <g transform="translate(32.30875 51.818416) scale(0.12 -0.12)">
+       <defs>
+        <path id="Arimo-Regular-33" d="M 3278 1216 
+Q 3278 606 2890 271 
+Q 2503 -63 1784 -63 
+Q 1116 -63 717 239 
+Q 319 541 244 1131 
+L 825 1184 
+Q 938 403 1784 403 
+Q 2209 403 2451 612 
+Q 2694 822 2694 1234 
+Q 2694 1594 2417 1795 
+Q 2141 1997 1619 1997 
+L 1300 1997 
+L 1300 2484 
+L 1606 2484 
+Q 2069 2484 2323 2686 
+Q 2578 2888 2578 3244 
+Q 2578 3597 2370 3801 
+Q 2163 4006 1753 4006 
+Q 1381 4006 1151 3815 
+Q 922 3625 884 3278 
+L 319 3322 
+Q 381 3863 767 4166 
+Q 1153 4469 1759 4469 
+Q 2422 4469 2789 4161 
+Q 3156 3853 3156 3303 
+Q 3156 2881 2920 2617 
+Q 2684 2353 2234 2259 
+L 2234 2247 
+Q 2728 2194 3003 1916 
+Q 3278 1638 3278 1216 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Arimo-Regular-33"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m760a8c6ddf" x="45.981875" y="11.548125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 4 -->
+      <g transform="translate(32.30875 15.89625) scale(0.12 -0.12)">
+       <use xlink:href="#Arimo-Regular-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- $\Delta$ WTH: Low - High Cost -->
+     <g transform="translate(18.15 202.290153) rotate(-90) scale(0.15 -0.15)">
+      <defs>
+       <path id="DejaVuSans-394" d="M 2188 4044 
+L 906 525 
+L 3472 525 
+L 2188 4044 
+z
+M 50 0 
+L 1831 4666 
+L 2547 4666 
+L 4325 0 
+L 50 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-54" d="M 2250 3916 
+L 2250 0 
+L 1656 0 
+L 1656 3916 
+L 144 3916 
+L 144 4403 
+L 3763 4403 
+L 3763 3916 
+L 2250 3916 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-48" d="M 1122 2041 
+L 1122 0 
+L 525 0 
+L 525 4403 
+L 1122 4403 
+L 1122 2541 
+L 3503 2541 
+L 3503 4403 
+L 4100 4403 
+L 4100 0 
+L 3503 0 
+L 3503 2041 
+L 1122 2041 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-3a" d="M 1194 3381 
+L 1194 2734 
+L 584 2734 
+L 584 3381 
+L 1194 3381 
+z
+M 1194 647 
+L 1194 0 
+L 584 0 
+L 584 647 
+L 1194 647 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-4c" d="M 3347 488 
+L 3347 0 
+L 525 0 
+L 525 4403 
+L 1122 4403 
+L 1122 488 
+L 3347 488 
+z
+" transform="scale(0.015625)"/>
+       <path id="Arimo-Regular-2d" d="M 1847 1950 
+L 1847 1450 
+L 284 1450 
+L 284 1950 
+L 1847 1950 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#DejaVuSans-394" transform="translate(0 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(68.408203 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-57" transform="translate(96.191406 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-54" transform="translate(190.576172 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-48" transform="translate(251.660156 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-3a" transform="translate(323.876953 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(351.660156 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-4c" transform="translate(379.443359 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-6f" transform="translate(435.058594 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-77" transform="translate(490.673828 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(562.890625 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-2d" transform="translate(590.673828 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(623.974609 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-48" transform="translate(651.757812 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-69" transform="translate(723.974609 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-67" transform="translate(746.191406 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-68" transform="translate(801.806641 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-20" transform="translate(857.421875 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-43" transform="translate(885.205078 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-6f" transform="translate(957.421875 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-73" transform="translate(1013.037109 0.09375)"/>
+      <use xlink:href="#Arimo-Regular-74" transform="translate(1063.037109 0.09375)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_14">
+    <path d="M 60.711059 159.191396 
+L 62.714345 158.262814 
+L 64.717632 157.334231 
+L 66.720918 156.405649 
+L 68.724205 155.477066 
+L 70.727491 154.548484 
+L 72.730778 153.619901 
+L 74.734064 152.691319 
+L 76.737351 151.762736 
+L 78.740637 150.834154 
+L 80.743923 149.905571 
+L 82.74721 148.976989 
+L 84.750496 148.048406 
+L 86.753783 147.119824 
+L 88.757069 146.191241 
+L 90.760356 145.262659 
+L 92.763642 144.334076 
+L 94.766929 143.405494 
+L 96.770215 142.476911 
+L 98.773502 141.548329 
+L 100.776788 140.619746 
+L 102.780075 139.691164 
+L 104.783361 138.762581 
+L 106.786648 137.833999 
+L 108.789934 136.905416 
+L 110.793221 135.976834 
+L 112.796507 135.048251 
+L 114.799794 134.119669 
+L 116.80308 133.191087 
+L 118.806367 132.262504 
+L 120.809653 131.333922 
+L 122.81294 130.405339 
+L 124.816226 129.476757 
+L 126.819513 128.548174 
+L 128.822799 127.619592 
+L 130.826086 126.691009 
+L 132.829372 125.762427 
+L 134.832659 124.833844 
+L 136.835945 123.905262 
+L 138.839231 122.976679 
+L 140.842518 122.048097 
+L 142.845804 121.119514 
+L 144.849091 120.190932 
+L 146.852377 119.262349 
+L 148.855664 118.333767 
+L 150.85895 117.405184 
+L 152.862237 116.476602 
+L 154.865523 115.548019 
+L 156.86881 114.619437 
+L 158.872096 113.690854 
+L 160.875383 112.762272 
+L 162.878669 111.833689 
+L 164.881956 110.905107 
+L 166.885242 109.976524 
+L 168.888529 109.047942 
+L 170.891815 108.119359 
+L 172.895102 107.190777 
+L 174.898388 106.262194 
+L 176.901675 105.333612 
+L 178.904961 104.405029 
+L 180.908248 103.476447 
+L 182.911534 102.547864 
+L 184.914821 101.619282 
+L 186.918107 100.690699 
+L 188.921394 99.762117 
+L 190.92468 98.833535 
+L 192.927967 97.904952 
+L 194.931253 96.97637 
+L 196.934539 96.047787 
+L 198.937826 95.119205 
+L 200.941112 94.190622 
+L 202.944399 93.26204 
+L 204.947685 92.333457 
+L 206.950972 91.404875 
+L 208.954258 90.476292 
+L 210.957545 89.54771 
+L 212.960831 88.619127 
+L 214.964118 87.690545 
+L 216.967404 86.761962 
+L 218.970691 85.83338 
+L 220.973977 84.904797 
+L 222.977264 83.976215 
+L 224.98055 83.047632 
+L 226.983837 82.11905 
+L 228.987123 81.190467 
+L 230.99041 80.261885 
+L 232.993696 79.333302 
+L 234.996983 78.40472 
+L 237.000269 77.476137 
+L 239.003556 76.547555 
+L 241.006842 75.618972 
+L 243.010129 74.69039 
+L 245.013415 73.761807 
+L 247.016702 72.833225 
+L 249.019988 71.904642 
+L 251.023275 70.97606 
+L 253.026561 70.047477 
+L 255.029847 69.118895 
+L 257.033134 68.190312 
+L 259.03642 67.26173 
+" clip-path="url(#pd054eff482)" style="fill: none; stroke: #3fc0c4; stroke-width: 2.25; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.981875 231.345153 
+L 45.981875 9.585153 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 45.981875 231.345153 
+L 269.181875 231.345153 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd054eff482">
+   <rect x="45.981875" y="9.585153" width="223.2" height="221.76"/>
+  </clipPath>
+ </defs>
+</svg>
