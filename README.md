@@ -1,4 +1,4 @@
-# Prosocial decisions in naturalistic helping scenarios are shaped by cost-benefit tradeoff and disposition
+# Prosocial decisions in naturalistic helping scenarios are predicted by cost-benefit tradeoffs and individual disposition
 Qianying Wu, Miao Song, Jackie Ayoub, David Dunning, Danyang Tian, and Ehsan Moradi-Pari
 
 ## Abstract
